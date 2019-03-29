@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nakasu Widget</string>
+
+    <string name="title_nakasu_kaizuka">Nakasu-Kaizuka</string>
+    <string name="title_tenjin_kaizuka">Tenjin-Kaizuka (*heads to Airport, easy transfer)</string>
+    <string name="title_chiyo_tenjin">Chiyo-Tenjin (*ends at Nakasu)</string>
+
+</resources>
