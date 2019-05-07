@@ -1,4 +1,8 @@
+// use https://fukuoka-city-subway.jorudan.biz/pc/diagramdtl?mode=1&fr=%E5%8D%83%E4%BB%A3%E7%9C%8C%E5%BA%81%E5%8F%A3&frkbn=4&frsk=R&tosk=&dt=201905250000&dgm=%E5%8D%83%E4%BB%A3%E7%9C%8C%E5%BA%81%E5%8F%A3%3A%E7%A6%8F%E5%B2%A1%E5%9C%B0%E4%B8%8B%E9%89%84%E7%AE%B1%E5%B4%8E%E7%B7%9A%3A%E8%B2%9D%E5%A1%9A%EF%BC%88%E7%A6%8F%E5%B2%A1%EF%BC%89%3A%E9%A6%AC%E5%87%BA%E4%B9%9D%E5%A4%A7%E7%97%85%E9%99%A2%E5%89%8D%3A0&p=8%2C9
+
 var a = `
+
+
 
 
 
