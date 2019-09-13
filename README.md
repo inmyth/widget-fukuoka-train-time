@@ -5,4 +5,4 @@ Because the subway forks into two Airport and Kaizuka in Nakasu Kawabata. And th
 
 Use JS scrapper to scrap schedule from internet and put it in Schedule.
 
-Schedule version: 2019年03月16日現在
+Schedule version: 2019年09月16日現在

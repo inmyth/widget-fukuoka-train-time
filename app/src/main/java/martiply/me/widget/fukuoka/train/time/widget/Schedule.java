@@ -525,7 +525,6 @@ public class Schedule {
         tenjinKaizukaHoliday.put(2357, new Ref(2357));
 
 
-
         chiyoTenjin.put(537, new Ref(537));
         chiyoTenjin.put(600, new Ref(600));
         chiyoTenjin.put(611, new Ref(611));
@@ -780,6 +779,7 @@ public class Schedule {
         chiyoTenjinHoliday.put(2330, new Ref(2330));
         chiyoTenjinHoliday.put(2343, new Ref(2343));
         chiyoTenjinHoliday.put(2401, new Ref(2401));
+
 
 
         holidays.add(321);
