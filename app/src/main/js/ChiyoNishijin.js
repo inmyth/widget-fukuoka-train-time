@@ -5,6 +5,7 @@ var a = `
 
 
 
+
 5
 
         姪 37
@@ -185,6 +186,7 @@ var a = `
 0
 
         姪 01
+
 `
 
 var a = a.split(/[\r\n]+/).filter(p => p !== '')

@@ -2,6 +2,7 @@
 // https://ekitan.com/timetable/railway/line-station/701-0?d=1&dw=2
 
 var a = `
+
 05
 
     [各停]貝 39

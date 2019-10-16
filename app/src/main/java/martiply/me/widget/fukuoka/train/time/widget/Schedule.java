@@ -153,6 +153,7 @@ public class Schedule {
         nakasuKaizuka.put(2358, new Ref(2358));
 
 
+
         nakasuKaizukaHoliday.put(539, new Ref(539));
         nakasuKaizukaHoliday.put(556, new Ref(556));
         nakasuKaizukaHoliday.put(614, new Ref(614));
@@ -658,6 +659,7 @@ public class Schedule {
 
 
 
+
         chiyoTenjinHoliday.put(537, new Ref(537));
         chiyoTenjinHoliday.put(601, new Ref(601));
         chiyoTenjinHoliday.put(621, new Ref(621));
@@ -779,7 +781,6 @@ public class Schedule {
         chiyoTenjinHoliday.put(2330, new Ref(2330));
         chiyoTenjinHoliday.put(2343, new Ref(2343));
         chiyoTenjinHoliday.put(2401, new Ref(2401));
-
 
 
         holidays.add(321);
